@@ -1,6 +1,6 @@
 ### ✨ Sobre mí
  
-¡Hola! 👋 Me llamo **Daniel** y soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la tecnología y, en especial, el mundo de la inteligencia artificial 🤖.
+¡Hola! 👋 Me llamo **Miriam** y soy estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la tecnología y, en especial, el mundo de la inteligencia artificial 🤖.
  
 -  ✨ Actualmente estudio DAM y planeo continuar con un máster relacionado con IA.
 - 🌱 Aprendiendo sobre desarrollo de software, bases de datos y fundamentos de inteligencia artificial.
