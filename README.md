@@ -14,7 +14,8 @@
  
 ### 📊 Mis estadísticas
  
-[![DarksAces GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuroimichan4&show_icons=true&theme=dark)](https://github.com/DarksAces)
+[![Kuroimichan4 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuroimichan4&show_icons=true&theme=dark)](https://github.com/Kuroimichan4)
+
  
 ### ✨ Mis contribuciones
  
